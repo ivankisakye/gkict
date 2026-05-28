@@ -126,7 +126,7 @@ const Navbar = () => {
           ))}
 
           <a
-            href="tel:+256700000000"
+            href="tel:+256772168241"
             className="flex items-center gap-2 bg-orange-500 text-white font-semibold px-4 py-3 rounded-lg mt-2"
           >
             <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
