@@ -255,7 +255,7 @@ function ContactForm() {
                 value={formData.phone}
                 onChange={handleChange}
                 className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:outline-none focus:border-blue-400 focus:ring-2 focus:ring-blue-100 transition-all"
-                placeholder="+256 700 000 000"
+                placeholder="+256 772 168 241"
               />
             </div>
             <div>
